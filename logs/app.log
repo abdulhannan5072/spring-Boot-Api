@@ -1,0 +1,4 @@
+2020-09-14 04:12:49,872 INFO c.e.s.SpringBootApiApplication [main] Starting SpringBootApiApplication on DESKTOP-DBVG8PH with PID 16120 (D:\Work\Java\spring-Boot-Api\target\classes started by Lenovo in D:\Work\Java\spring-Boot-Api)
+2020-09-14 04:12:49,879 DEBUG c.e.s.SpringBootApiApplication [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-09-14 04:12:49,880 INFO c.e.s.SpringBootApiApplication [main] No active profile set, falling back to default profiles: default
+2020-09-14 04:12:51,625 INFO c.e.s.SpringBootApiApplication [main] Started SpringBootApiApplication in 2.091 seconds (JVM running for 4.406)
