@@ -5,5 +5,5 @@
 ## Spring Boot
 ## MongoDb
 ## RestApi
-## Log4j2
+## Log4j2 (with console and file of logs)
 ## Java execution time measurement
